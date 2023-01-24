@@ -1,0 +1,19 @@
+{
+  "name": "mi-proyecto-final---2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ana-Santos10/mi-proyecto-final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ana-Santos10/mi-proyecto-final/issues"
+  },
+  "homepage": "https://github.com/Ana-Santos10/mi-proyecto-final#readme",
+  "description": "Consultorio R_Dental\r > Servicio Odontologico y tratamientos de Ortodoncia\r ----\r ## Herramientas utilizadas\r - HTML\r - CSS\r - FLEXBOX\r [![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPJXJ93UIZ908XuJHZNz28mHEFw9lEexxPg&usqp=CAU)](http://https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPPJXJ93UIZ908XuJHZNz28mHEFw9lEexxPg&usqp=CAU)"
+}
